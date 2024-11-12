@@ -1,4 +1,6 @@
 # test_calc.py
+git config --global user.name "JosephLawrenceRivera"
+git config --global user.email "josephlawrence.rivera@my.jru.edu"
 from calc import add, subtract
 
 def test_add():
